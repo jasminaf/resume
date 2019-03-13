@@ -16,5 +16,5 @@ _In case of any problems you can contact me at:_ **jasmina_filipovic@hotmail.com
 
 ## Technologies used
 
-1._html_
-2._CSS_
+1. _html_
+2. _CSS_
